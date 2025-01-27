@@ -19,7 +19,7 @@
 ###
 
 <p align="left">
-I'm Priyanshu Kashyap from ....<br><br>
+<b>I'm Priyanshu Kashyap from</b> ....<br><br>
 - 🔭 I’m currently working in frontend development.<br>
 - 📚 I'm pursuing a career as a data analyst and continuously learning new skills.<br>
 - ⚡ In my free time, I enjoy exploring data trends, coding, and enhancing my problem-solving skills.<br>
