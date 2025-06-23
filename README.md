@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftechnology-background&psig=AOvVaw0SH6H_MZytqT8NZ8KNXZBi&ust=1750787353648000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi4jaSNiI4DFQAAAAAdAAAAABAE"  />
 </div>
 
 ###
