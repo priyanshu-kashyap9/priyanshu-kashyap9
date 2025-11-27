@@ -2,7 +2,7 @@
 <!-- 🌟 Hero Section -->
 <!-- ============================== -->
 <p align="center">
-  <img src="manishkumar.png" alt="Manish Kumar" width="1000" style="border-radius:50%; border: 4px solid #00FFFF;" />
+  <img src="PRIYANSHU KASHYAP.png" alt="Priyanshu Kashyhap" width="1000" style="border-radius:50%; border: 4px solid #00FFFF;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Priyanshu Kashyap 🇮🇳</h1>
@@ -81,6 +81,9 @@
 <!-- ============================== -->
 <!-- 📌 Projects Showcase -->
 <!-- ============================== -->
+## 🚀 Snake
+<img src="https://raw.githubusercontent.com/priyanshu-kashyap9/priyanshu-kashyap9/output/snake.svg" alt="Snake animation" />
+
 ## 📌 Featured Projects  
 
 <p align="center">
