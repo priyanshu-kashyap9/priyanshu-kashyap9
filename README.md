@@ -35,9 +35,9 @@
 ## 🔗 Explore More  
 
 <p align="center">
-  <!-- <a href="https://kumarmanish562.github.io/PORTFOLIO_Mk/">
+  <a href="https://github.com/priyanshu-kashyap9/PORTFOLIO_PK.git">
     <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a> -->
+  </a>
   <a href="https://www.linkedin.com/in/priyanshu-kashyap-0b91ba268/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -84,27 +84,9 @@
 ## 🚀 Snake
 <img src="https://raw.githubusercontent.com/priyanshu-kashyap9/priyanshu-kashyap9/output/snake.svg" alt="Snake animation" />
 
-## 📌 Featured Projects  
 
-<p align="center">
-  <a href="https://github.com/priyanshu-kashyap9/Learn_Zenith">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshu-kashyap9&repo=Learn_Zenith&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/priyanshu-kashyap9/Front_A_Thon_Project.git">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=PORTFOLIO_Mk&theme=react&hide_border=true" />
-  </a>
-</p>
 
-<p align="center">
- <a href="https://github.com/priyanshu-kashyap9/Learn_Zenith">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshu-kashyap9&repo=Learn_Zenith&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/kumarmanish562/gamer_platform">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=gamer_platform&theme=react&hide_border=true" />
-  </a>
-</p>
 
----
 
 <!-- ============================== -->
 <!-- 📊 GitHub Stats -->
