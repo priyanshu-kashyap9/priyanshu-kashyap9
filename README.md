@@ -100,8 +100,11 @@
 </p>
 
 <p align="center">
-  <!-- Streak Stats (alt service) -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=priyanshu-kashyap9&theme=tokyonight" height="180px"/>
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app?user=priyanshu-kashyap9&theme=tokyonight&cache_seconds=1800" 
+    height="180px"
+  />
 </p>
 
 
