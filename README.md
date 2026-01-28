@@ -35,7 +35,7 @@
 ## 🔗 Explore More  
 
 <p align="center">
-  <a href="https://github.com/priyanshu-kashyap9/PORTFOLIO_PK.git">
+  <a href="https://priyanshukashyap.in/">
     <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/priyanshu-kashyap-0b91ba268/">
