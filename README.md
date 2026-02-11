@@ -32,6 +32,112 @@
 <!-- ============================== -->
 <!-- 🔗 Portfolio / Social Links -->
 <!-- ============================== -->
+
+
+<!-- ============================== -->
+<!-- 📌 Projects Showcase -->
+<!-- ============================== -->
+
+
+## ⚙ Tech Stack  
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://mui.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/mui/mui-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" style="margin:15px;" />
+</a>
+
+
+---
+## 🚀 Snake
+<img src="https://raw.githubusercontent.com/priyanshu-kashyap9/priyanshu-kashyap9/output/snake.svg" alt="Snake animation" />
+
+
+
+
+
+
 ## 🔗 Explore More  
 
 <p align="center">
@@ -48,44 +154,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-<!-- ============================== -->
-<!-- 🛠 Tech Stack -->
-<!-- ============================== -->
-## ⚙ Tech Stack  
-
-### 🧑‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🚀 Web Dev  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### ⚡ Backend & DB  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🌍 Deployment & Tools  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
----
-
-<!-- ============================== -->
-<!-- 📌 Projects Showcase -->
-<!-- ============================== -->
-## 🚀 Snake
-<img src="https://raw.githubusercontent.com/priyanshu-kashyap9/priyanshu-kashyap9/output/snake.svg" alt="Snake animation" />
-
-
-
 
 
 <!-- ============================== -->
