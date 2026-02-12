@@ -17,27 +17,20 @@
 <!-- ============================== -->
 <!-- 🌍 About Me -->
 <!-- ============================== -->
-## 💫 About Me
+## 🌌 About Me
 
-- 🌱 Currently learning *ML Algorithms* & diving deep into *AI concepts*  
-- 💬 Ask me about *Data Analyst*, Prompt Engineering, Web Development*  
-- 🚀 Love *turning ideas into real-world projects*  
-- 🛠 Skilled in *React, Tailwind, Node.js, Express*  
-- 📚 Always eager to *learn & explore new tech*  
-- 🤝 Open to *collaborations in AI/ML & modern web dev*  
-- 📫 Reach me at: *priyanshu24k@gmail.com*
+<div align="center">
+
+<h3>
+Hi, I'm <b>Priyanshu Kashyap</b> — a Data Analytics enthusiast and Full Stack Developer passionate about building impactful real-world solutions. 
+I am currently exploring <b>Machine Learning algorithms and advanced AI concepts</b> while strengthening my foundation in Data Analytics. 
+I enjoy transforming ideas into scalable and efficient applications. 
+I am a continuous learner who loves experimenting with new technologies and collaborating on innovative AI/ML and web-based projects.
+</h3>
+
+</div>
 
 ---
-
-<!-- ============================== -->
-<!-- 🔗 Portfolio / Social Links -->
-<!-- ============================== -->
-
-
-<!-- ============================== -->
-<!-- 📌 Projects Showcase -->
-<!-- ============================== -->
-
 
 ## ⚙ Tech Stack  
 <a href="https://isocpp.org/" target="_blank">
@@ -132,11 +125,6 @@
 ---
 ## 🚀 Snake
 <img src="https://raw.githubusercontent.com/priyanshu-kashyap9/priyanshu-kashyap9/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
 
 ## 🔗 Explore More  
 
