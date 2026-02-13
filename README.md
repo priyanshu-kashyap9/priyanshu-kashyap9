@@ -5,7 +5,7 @@
   <img src="PRIYANSHU KASHYAP.png" alt="Priyanshu Kashyhap" width="1000" style="border-radius:50%; border: 4px solid #00FFFF;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Priyanshu Kashyap 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu Kashyap </h1>
 <h3 align="center">💡 Problem Solver | 🚀 Tech Explorer | 🤝 Open to Collaborations</h3>
 
 <p align="center">
