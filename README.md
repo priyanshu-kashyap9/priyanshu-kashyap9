@@ -25,7 +25,7 @@
 Hi, I'm <b>Priyanshu Kashyap</b> — a Data Analytics enthusiast and Full Stack Developer passionate about building impactful real-world solutions. 
 I am currently exploring <b>Machine Learning algorithms and advanced AI concepts</b> while strengthening my foundation in Data Analytics. 
 I enjoy transforming ideas into scalable and efficient applications. 
-I am a continuous learner who loves experimenting with new technologies and collaborating on innovative AI/ML and web-based projects it.
+I am a continuous learner who loves experimenting with new technologies and collaborating on innovative AI/ML and web-based projects .
 </h3>
 
 </div>
